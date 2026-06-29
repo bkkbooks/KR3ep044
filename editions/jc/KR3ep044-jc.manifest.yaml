@@ -1,0 +1,303 @@
+canonical_identifier: bkk:krp/KR3ep044/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ep044/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 愛月廬醫案
+  identifiers:
+    krp: KR3ep044
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep044.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep044_000-jc.yaml, hash: 'sha256:e8b262ef2a6b4169c62535394ffb261308d12001d6acb3ace2aafa575f3309e1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ep044_000-jc.markers.yaml, hash: 'sha256:225b1526c39cf619618a04f60a36caf484cb2ae56d5ec919f2418fa9d8d34ff8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 404
+  label: 喉風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d3.h1s1
+    span:
+    - body
+    - 404
+    - 975
+  label: 喉蛾
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d4.h1s1
+    span:
+    - body
+    - 975
+    - 1222
+  label: 頸癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d5.h1s1
+    span:
+    - body
+    - 1222
+    - 1398
+  label: 骨槽風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d6.h1s1
+    span:
+    - body
+    - 1398
+    - 1626
+  label: 鵝掌風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d7.h1s1
+    span:
+    - body
+    - 1626
+    - 2126
+  label: 癧核
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d8.h1s1
+    span:
+    - body
+    - 2126
+    - 2643
+  label: 外吹
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d9.h1s1
+    span:
+    - body
+    - 2643
+    - 3582
+  label: 腎俞虛痰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d10.h1s1
+    span:
+    - body
+    - 3582
+    - 3746
+  label: 發背
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d11.h1s1
+    span:
+    - body
+    - 3746
+    - 3941
+  label: 湯火傷
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d12.h1s1
+    span:
+    - body
+    - 3941
+    - 4178
+  label: 爛皮疔
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d13.h1s1
+    span:
+    - body
+    - 4178
+    - 5431
+  label: 偏腦疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d14.h1s1
+    span:
+    - body
+    - 5431
+    - 6076
+  label: 附骨疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d15.h1s1
+    span:
+    - body
+    - 6076
+    - 6252
+  label: 下搭手
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d16.h1s1
+    span:
+    - body
+    - 6252
+    - 7000
+  label: 上搭手
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d17.h1s1
+    span:
+    - body
+    - 7000
+    - 7829
+  label: 環跳疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d18.h1s1
+    span:
+    - body
+    - 7829
+    - 7983
+  label: 缺盆疽
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d19.h1s1
+    span:
+    - body
+    - 7983
+    - 8680
+  label: 肛癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d20.h1s1
+    span:
+    - body
+    - 8680
+    - 9168
+  label: 肺癰
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d21.h1s1
+    span:
+    - body
+    - 9168
+    - 9274
+  label: 流注
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d22.h1s1
+    span:
+    - body
+    - 9274
+    - 9387
+  label: 痔血
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d23.h1s1
+    span:
+    - body
+    - 9387
+    - 9482
+  label: 漏蹄風
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d24.h1s1
+    span:
+    - body
+    - 9482
+    - 9788
+  label: 脹痛
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d25.h1s1
+    span:
+    - body
+    - 9788
+    - 9973
+  label: 伏暑
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d26.h1s1
+    span:
+    - body
+    - 9973
+    - 10242
+  label: 暑濕傷寒
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d27.h1s1
+    span:
+    - body
+    - 10242
+    - 10668
+  label: 下痢赤白
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d28.h1s1
+    span:
+    - body
+    - 10668
+    - 11106
+  label: 遺精
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep044_jc_000-d29.h1s1
+    span:
+    - body
+    - 11106
+    - 11638
+  label: 吐血
+  type: section
+  level: 1
+hash: sha256:298cb0b40a52c00c13a28112b447cda854576981699d9da99a0c77729fec6509

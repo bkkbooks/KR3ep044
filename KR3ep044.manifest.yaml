@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ep044/v1
 canonical_location: https://kanripo.org/bkk/KR3ep044/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 愛月廬醫案
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ep044_000.yaml, hash: 'sha256:e8b262ef2a6b4169c62535394ffb261308d12001d6acb3ace2aafa575f3309e1'}
+  - {seq: 0, filename: KR3ep044_000.yaml, hash: 'sha256:5fd4bde24abca0b06467a5b402bb63d7ef9578466e20aad90f9131cfa02255f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep044_000.markers.yaml, hash: 'sha256:76102e05eca74a0c8d271bad5a9d75baebf6474ff64938bd0c4915777613825e'}
+  - {seq: 0, role: markers, filename: assets/KR3ep044_000.markers.yaml, hash: 'sha256:0cf4c6266dc24de10f3ce89b83e3cf11e3b296dce7cd5fc8480c5942e3f42cce'}
 table_of_contents:
 - ref:
     seq: 0
@@ -300,4 +300,7 @@ table_of_contents:
   label: 吐血
   type: section
   level: 1
-hash: sha256:2b97bb5dbbf0c599c723c37c0da3c5ca7c9c704478d65f53ca2aa5ddb0758d19
+hash: sha256:43c219394010e1f0f1d751395ed5f17eea8075c675e2548c503b4fd19625d598
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

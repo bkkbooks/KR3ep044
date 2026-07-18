@@ -18,7 +18,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ep044_000.yaml, hash: 'sha256:5fd4bde24abca0b06467a5b402bb63d7ef9578466e20aad90f9131cfa02255f0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ep044_000.markers.yaml, hash: 'sha256:0cf4c6266dc24de10f3ce89b83e3cf11e3b296dce7cd5fc8480c5942e3f42cce'}
+  - {seq: 0, role: markers, filename: assets/KR3ep044_000.markers.yaml, hash: 'sha256:2f299f7265b7ba3a49d463b47963a2b92617ee62df6f5b76d8044ffc1f7b4dd9'}
 table_of_contents:
 - ref:
     seq: 0
@@ -300,7 +300,7 @@ table_of_contents:
   label: 吐血
   type: section
   level: 1
-hash: sha256:43c219394010e1f0f1d751395ed5f17eea8075c675e2548c503b4fd19625d598
+hash: sha256:f619da1321f420cca76a6fe4203d84a2b70aa399c7a6fd96663bf084985d1051
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
